@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\bin\Debug\Şifreli_Veriler.exe.config
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\bin\Debug\Şifreli_Veriler.exe
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\bin\Debug\Şifreli_Veriler.pdb
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.Form1.resources
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.Properties.Resources.resources
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.exe
+C:\Users\ACER\Desktop\c# PROJE\Şifreli_Veriler\Şifreli_Veriler\obj\Debug\Şifreli_Veriler.pdb
